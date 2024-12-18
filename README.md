@@ -6,6 +6,5 @@
   </ul>
 
 </div>
-<hr align="center">
 https://github.com/user-attachments/assets/9dab8f7c-3584-4fc1-9133-bd4b8b7811bf
 
