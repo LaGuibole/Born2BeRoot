@@ -4,5 +4,5 @@
     <li>typewriter.js : Simulates typing on a keyboard</li>
     <li>horizontal.js : Allow horizontal scroll on pinned container. Based on Gsap lib.</li>
   </ul>
-https://github.com/user-attachments/assets/27e900ca-64dd-49a0-8693-5f301f082deb
+https://github.com/user-attachments/assets/0957398f-7a75-481a-bf11-f3f809dd0724
 </div>
