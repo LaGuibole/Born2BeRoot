@@ -1,10 +1,11 @@
 <div align="center">
 <h1>B2BR Front-End Demo</h1>
+</div>
+<div>
   <ul>
     <li>typewriter.js : Simulates typing on a keyboard</li>
     <li>horizontal.js : Allow horizontal scroll on pinned container. Based on Gsap lib.</li>
   </ul>
-
 </div>
 <div align="center">
 
