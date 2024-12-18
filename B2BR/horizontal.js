@@ -34,12 +34,11 @@ window.addEventListener("load", function() {
     console.log(horizontalScrollLenght);
 gsap.to(".pin_wrap", {
     scrollTrigger: {
-      scroller: pageContainer, //locomotive-scroll
+      scroller: pageContainer, 
       trigger: "#scroll_two",
       start: "top top",
       end: pinWrapWidth,
       scrub: true,      pin: true,
-    //   anticipatePin: 1,
     },
     x: -horizontalScrollLenght,
     ease: "none"
